@@ -1,0 +1,5 @@
+{
+  "name": "NebulaNav",
+  "description": "一个基于数据库的现代化导航看板，具备响应式玻璃拟态设计以及出站链接保护功能。",
+  "requestFramePermissions": []
+}
